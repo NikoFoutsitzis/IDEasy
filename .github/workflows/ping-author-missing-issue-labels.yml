@@ -1,5 +1,5 @@
 name: Ping author when new issue has no labels
-
+#on
 on:
   workflow_call:
     inputs:
